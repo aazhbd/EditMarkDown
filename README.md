@@ -1,6 +1,6 @@
 # EditMarkDown
 
-EditMarkDown is a simple, fast, light weight, editor and viewer for Markdown text.
+EditMarkDown is a free simple, fast, light weight, editor and viewer for Markdown text.
 
 EditMarkDown is a fully featured natively build WYSIWYG editor for MarkDown and PDF in a light weight window with a small disk footprint.
 
