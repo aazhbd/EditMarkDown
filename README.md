@@ -4,9 +4,10 @@ EditMarkDown is a simple, fast, light weight, editor and viewer for Markdown tex
 
 EditMarkDown is a fully featured natively build WYSIWYG editor for MarkDown and PDF in a light weight window with a small disk footprint.
 
+
 ## Usage
 
-EditMarkDown is currently distributed for 64 bit Windows as a portable exe file, so no install is necessary and it doesn't modify system registry or any other configuration. Simply download the ```EditMarkDown.exe``` or extract the zip / rar file, and double click on it to use it.
+EditMarkDown is currently distributed for 64 bit Windows as a portable ```exe``` file, so no install is necessary and it doesn't modify system registry or any other configuration. Simply download the ```EditMarkDown.exe``` or extract the zip / rar file, and double click on it to use it.
 
 
 ## Features:
@@ -19,6 +20,10 @@ EditMarkDown is currently distributed for 64 bit Windows as a portable exe file,
 
 - It is natively build, so fast startup time and small disk usage.
 
+
+## Screenshot
+
+![EditMarkDown](https://assets.articulatedlogic.com/covers/editmarkdown_screenshot.png)
 
 
 ## License
