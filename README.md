@@ -5,7 +5,7 @@ EditMarkDown is a free simple, fast, light weight, editor and viewer for Markdow
 EditMarkDown is a fully featured natively build WYSIWYG editor for MarkDown and PDF in a light weight window with a small disk footprint.
 
 
-## Usage
+## Installation
 
 EditMarkDown is currently distributed for 64 bit Windows as a portable ```exe``` file, so no install is necessary and it doesn't modify system registry or any other configuration. Simply download the [latest](https://github.com/aazhbd/EditMarkDown/releases/latest) [EditMarkDown.exe](https://github.com/aazhbd/EditMarkDown/releases/download/v2.0/EditMarkDown.exe) or extract the zip / rar file, and double click on it to use it.
 
