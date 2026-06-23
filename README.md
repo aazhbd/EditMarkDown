@@ -1,13 +1,13 @@
-# EditMarkDown
+# RenderNote
 
-EditMarkDown is a free simple, fast, light weight, editor and viewer for Markdown text.
+RenderNote is a free simple, fast, light weight, editor and viewer for Markdown text.
 
-EditMarkDown is a fully featured natively build WYSIWYG editor for MarkDown and PDF in a light weight window with a small disk footprint.
+RenderNote is a fully featured natively build WYSIWYG editor for MarkDown and PDF in a light weight window with a small disk footprint.
 
 
 ## Installation
 
-EditMarkDown is currently distributed for 64 bit Windows as a portable ```exe``` file, so no install is necessary and it doesn't modify system registry or any other configuration. Simply download the [latest](https://github.com/aazhbd/EditMarkDown/releases/latest) [EditMarkDown.exe](https://github.com/aazhbd/EditMarkDown/releases/download/v2.0/EditMarkDown.exe) or extract the zip / rar file, and double click on it to use it.
+RenderNote is currently distributed for 64 bit Windows as a portable ```exe``` file, so no install is necessary and it doesn't modify system registry or any other configuration. Simply download the [latest](https://github.com/aazhbd/RenderNote/releases/latest) [RenderNote.exe](https://github.com/aazhbd/RenderNote/releases/download/v2.0/RenderNote.exe) or extract the zip / rar file, and double click on it to use it.
 
 
 ## Features:
@@ -23,7 +23,7 @@ EditMarkDown is currently distributed for 64 bit Windows as a portable ```exe```
 
 ## Screenshot
 
-![EditMarkDown](https://assets.articulatedlogic.com/covers/editmarkdown_screenshot.png)
+![RenderNote](https://assets.articulatedlogic.com/covers/RenderNote_screenshot.png)
 
 
 ## License
