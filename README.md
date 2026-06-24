@@ -7,7 +7,7 @@ RenderNote is a fully featured natively build WYSIWYG editor for MarkDown and PD
 
 ## Installation
 
-RenderNote is currently distributed for 64 bit Windows as a portable ```exe``` file, so no install is necessary and it doesn't modify system registry or any other configuration. Simply download the [latest](https://github.com/aazhbd/RenderNote/releases/latest) [RenderNote.exe](https://github.com/aazhbd/RenderNote/releases/download/v2.0/RenderNote.exe) or extract the zip / rar file, and double click on it to use it.
+RenderNote is currently distributed for 64 bit Windows as a portable ```exe``` file, so no install is necessary and it doesn't modify system registry or any other configuration. Simply download the [latest](https://github.com/aazhbd/RenderNote/releases/latest) [RenderNote.exe](https://github.com/aazhbd/RenderNote/releases/download/v2.4/RenderNote.exe) or extract the zip / rar file, and double click on it to use it.
 
 
 ## Features:
